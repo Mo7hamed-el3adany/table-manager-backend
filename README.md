@@ -185,7 +185,7 @@ JWT_SECRET=your_secret_key
 ## ▶️ Run Locally
 
 ```bash
-git clone https://your-repo-url
+git clone https://your-repo-url](https://github.com/Mo7hamed-el3adany/table-manager-backend
 cd table-manager-backend
 npm install
 npm run dev
